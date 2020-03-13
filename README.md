@@ -1,6 +1,6 @@
 # Projeto Integrador 2° Período ADS
 
-Este é um projeto integrador proposto pela empresa <b>SPC BRASIL</b>, aos alunos do 2° período do curso de <b>Análise e Desenvolvimento de Sistemas</b>, da <b>FATEC-SJC</b>
+Este é um projeto integrador proposto pela empresa <a href="https://www.spcbrasil.org.br">SPC BRASIL</a>, aos alunos do 2° período do curso de <a href="https://fatecsjc-prd.azurewebsites.net/curso-analise-e-desenvolvimento-de-sistemas.php">Análise e Desenvolvimento de Sistemas</a>, da <a href="https://fatecsjc-prd.azurewebsites.net">FATEC-SJC</a>
 
 
 
