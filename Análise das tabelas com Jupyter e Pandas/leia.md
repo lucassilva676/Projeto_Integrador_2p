@@ -4,7 +4,7 @@
 
 Baixe o arquivo _requirements.txt_ e coloque-o em: C:\Usuários\seu_usuario
 
-Iniciar > CMD ou Win + r > cmd
+Iniciar > CMD **ou** Win + r > cmd
 
 Depois de entrado no CMD digite _pip install -r requirements.txt_
 
