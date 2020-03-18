@@ -1,5 +1,7 @@
 ## Requisitos necessários para rodar o arquivo no seu computador ##
-* [Python](https://www.python.org) 3.6 ou superior *selecione a opção PATH na instalação*, caso for instalar
+* [Python](https://www.python.org) 3.6 ou superior 
+
+*selecione a opção PATH na instalação*, caso for instalar
 * requirements.txt
 
 Baixe o arquivo _requirements.txt_ e coloque-o em: C:\Usuários\seu_usuario
