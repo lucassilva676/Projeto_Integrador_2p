@@ -7,4 +7,6 @@ Este é um projeto integrador proposto pela empresa [SPC BRASIL](https://www.spc
 
 
 _Logo, mais informações serão disponibilizadas aqui_
+
+
 ![alt text](https://github.com/caiquesjc/Projeto_Integrador_2p/blob/master/Arquivos/fatecsjc_400x192.png "Faculdade de Tecnologia de São José dos Campos") em parceria com ![alt text](https://github.com/caiquesjc/Projeto_Integrador_2p/blob/master/Arquivos/logo_spc_brasil.png "SPC Brasil")
