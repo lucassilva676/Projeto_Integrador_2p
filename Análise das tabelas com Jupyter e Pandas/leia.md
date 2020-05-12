@@ -12,6 +12,6 @@ _Vai instalar as bibliotecas necessárias_
 
 Para entrar no Jupyter depois de instalado digite no CMD: jupyter notebook
 
-Procure pela pasta onde você baixou o arquivo ".ipynb" e roda ele
+Procure pela pasta onde você baixou o arquivo ".ipynb" e execute
 
 _Os documentos gerados estarão na mesma pasta onde está o ".ipynb"_
