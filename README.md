@@ -12,7 +12,7 @@ Este é um projeto integrador proposto pela empresa [SPC BRASIL](https://www.spc
 Após isso, pretendemos complementar a formatação dos campos dos dados, como por exemplo, o CNPJ incompletos podem agora ser completos com zeros à esquerda até se tornar um dado válido para o sistema.
 
 ## Jupyter Notebook:
-* A ferramenta principal do nosso projeto é o *[Jupyter Notebook](https://jupyter.org/)*  ![alt text](https://github.com/caiquesjc/Projeto_Integrador_2p/blob/master/sources/jupyter.png).
+* A ferramenta principal do nosso projeto é o *[Jupyter Notebook](https://jupyter.org/)*![alt text](https://github.com/caiquesjc/Projeto_Integrador_2p/blob/master/sources/jupyter.png).
 
 * Com essa ferramenta, foi possível usar de um ambiente no navegador com um código responsivo em tempo real, utilizando a liguagem de programação *[Python](https://www.python.org/)* obtivemos até então um bom resultado e saídas de dados bem exemplificadas.
 
