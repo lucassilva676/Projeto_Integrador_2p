@@ -22,6 +22,12 @@ construído sobre a linguagem de programação *[Python](https://www.python.org/
 
 * Essa biblioteca foi a solução que achamos para trabalhar da maneira mais eficiente com as tabelas até então no formato de excel (.xlsx), assim transformando em .csv, isto é, um formato binário que a linguagem pode entender e analisar fácilmente.
 
+## Resultados:
+* Após todo esse processo, obtivemos vários gráficos da quantidade de dados `bons` e `ruins`, como por exemplo:
+
+* Tabela **STG_FNT_ITT**:
+![alt text](https://github.com/caiquesjc/Projeto_Integrador_2p/blob/master/sources/grafico%20STG_FNT_ITT.png)
+
 _Logo, mais informações serão disponibilizadas aqui_
 
 ![alt text](https://github.com/caiquesjc/Projeto_Integrador_2p/blob/master/sources/fatecsjc.png "Faculdade de Tecnologia de São José dos Campos") em parceria com ![alt text](https://github.com/caiquesjc/Projeto_Integrador_2p/blob/master/sources/logo_spc_brasil.png "SPC Brasil")
