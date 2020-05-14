@@ -16,6 +16,12 @@ Após isso, pretendemos complementar a formatação dos campos dos dados, como p
 
 * Com essa ferramenta, foi possível usar de um ambiente no navegador com um código responsivo em tempo real, utilizando a liguagem de programação *[Python](https://www.python.org/)* obtivemos até então um bom resultado e saídas de dados bem exemplificadas.
 
+## Biblioteca Pandas:
+* "O [Pandas](https://pandas.pydata.org/) é uma ferramenta rápida, poderosa, flexível e fácil de usar para análise e manipulação de dados de código aberto
+construído sobre a linguagem de programação *[Python](https://www.python.org/)*" Disponível em https://pandas.pydata.org/.
+
+* Essa biblioteca foi a solução que achamos para trabalhar da maneira mais eficiente com as tabelas até então no formato de excel (.xlsx), assim transformando em .csv, isto é, um formato binário que a linguagem pode entender e analisar fácilmente.
+
 _Logo, mais informações serão disponibilizadas aqui_
 
 ![alt text](https://github.com/caiquesjc/Projeto_Integrador_2p/blob/master/sources/fatecsjc.png "Faculdade de Tecnologia de São José dos Campos") em parceria com ![alt text](https://github.com/caiquesjc/Projeto_Integrador_2p/blob/master/sources/logo_spc_brasil.png "SPC Brasil")
