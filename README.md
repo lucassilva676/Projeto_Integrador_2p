@@ -26,6 +26,7 @@ construído sobre a linguagem de programação *[Python](https://www.python.org/
 * Após todo esse processo, obtivemos vários gráficos da quantidade de dados `bons` e `ruins`, como por exemplo:
 
 * Tabela **STG_FNT_ITT**:
+
 ![alt text](https://github.com/caiquesjc/Projeto_Integrador_2p/blob/master/sources/grafico%20STG_FNT_ITT.png)
 
 _Logo, mais informações serão disponibilizadas aqui_
